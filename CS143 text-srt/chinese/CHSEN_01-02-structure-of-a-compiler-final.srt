@@ -50,13 +50,13 @@ real computation going on here. You have to recognize the separators, namely the
 
 10
 00:01:01,209 --> 00:01:07,759
-空白, 标点符号, 像句号, 还有像资本这样的线索
-blanks. And the punctuation, things like the periods, and also clues like capital
+空白, 标点符号, 像句号, 还有像大写字母这样的线索
+blanks. And the punctuation, things like the periods, and also clues like capital letters.
 
 11
 00:01:07,759 --> 00:01:13,289
-字母, 这些帮助你把这组字母分成几组
-letters. And these help you to divide up this group of letters into, a bunch of
+这些帮助你把这组字母分成几组
+ And these help you to divide up this group of letters into, a bunch of
 
 12
 00:01:13,289 --> 00:01:18,030
